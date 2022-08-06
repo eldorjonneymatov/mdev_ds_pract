@@ -1,2 +1,4 @@
 # mdev_ds_pract
-answers to practical examples of mohirdev`s data science course
+Answers to practical examples of mohirdev`s data science and ai course
+## Contents:
+* 
