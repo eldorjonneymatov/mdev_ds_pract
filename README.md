@@ -5,7 +5,7 @@ Answers to practical examples of mohirdev`s data science and ai course
 * Pandas
 * Data handling
 * Plots
-*> Machine Learning
+* > Machine Learning
 >* Regresion
 >* Classification
 * Deep Learning
