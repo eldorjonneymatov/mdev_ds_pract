@@ -1,13 +1,11 @@
 # mdev_ds_pract
-Answers to practical examples of mohirdev`s data science and ai course
+Answers to practical examples of mohirdev`s data science and artificial intelligence course
 ## Contents:
 * Numpy
 * Pandas
 * Data handling
-* Plots
-* Machine Learning:
->* Regresion
->* Classification
+* Plotting
+* Machine Learning
 * Deep Learning
-* Self study works
+* Self-study works
 * Final
